@@ -9,7 +9,7 @@ Com base na descrição abaixo, exiba o texto dos descontos do IR:
 • Salário acima de 2500 – “desconto de 20%”.
  */
 
-package desafios_19_02;
+package desafios_12_02;
 
 import java.util.Locale;
 import java.util.Scanner;

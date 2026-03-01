@@ -1,4 +1,4 @@
-package desafios_19_02;
+package desafios_12_02;
 
 /*
 Faça um programa que calcule o salário de um funcionário com
