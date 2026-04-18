@@ -1,4 +1,4 @@
-package desafios_12_02;
+package aula02;
 
 /*
 Elabore um programa que verifique se uma variável é maior,

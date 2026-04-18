@@ -1,4 +1,4 @@
-package desafios_26_02.Exemplo1;
+package aula04;
 
 public class Funcionario {
     private String nome;

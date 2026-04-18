@@ -1,4 +1,4 @@
-package desafios_19_02;
+package aula03;
 
 /*
 a. Inicialmente, ler os dados de cada funcionário (matrícula, nome e salário bruto);

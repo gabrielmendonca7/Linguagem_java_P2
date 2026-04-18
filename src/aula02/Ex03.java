@@ -1,4 +1,4 @@
-package desafios_12_02;
+package aula02;
 import java.util.Scanner;
 import java.util.Locale;
 

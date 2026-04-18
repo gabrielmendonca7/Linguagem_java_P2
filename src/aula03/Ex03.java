@@ -1,7 +1,6 @@
-package desafios_19_02;
+package aula03;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 

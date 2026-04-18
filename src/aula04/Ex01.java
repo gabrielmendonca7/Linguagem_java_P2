@@ -1,6 +1,5 @@
-package desafios_26_02.Exemplo1;
+package aula04;
 
-import java.nio.channels.SelectableChannel;
 import java.util.Locale;
 import java.util.Scanner;
 

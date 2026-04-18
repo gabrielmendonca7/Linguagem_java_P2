@@ -1,4 +1,4 @@
-package desafios_26_02_2.Exemplo2;
+package desafios_26_02_2.aula04_2;
 
 import java.util.Scanner;
 

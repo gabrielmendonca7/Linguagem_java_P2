@@ -1,4 +1,4 @@
-package desafios_19_02;
+package aula03;
 
 /*
 Elabore um programa que solicite o nome e a idade de uma pessoa.

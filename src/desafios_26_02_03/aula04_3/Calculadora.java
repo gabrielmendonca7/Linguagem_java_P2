@@ -1,4 +1,4 @@
-package desafios_26_02_03.Exemplo3;
+package desafios_26_02_03.aula04_3;
 
 public class Calculadora {
     private int numero1,numero2,opcao;
